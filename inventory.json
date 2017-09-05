@@ -1,0 +1,45 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "240sx",
+      "year": "1990",
+      "price": "6500",
+      "description": "One of the most iconic drifting car in the world. The 240SX is a sports car that was introduced to the North American market by Nissan in 1988 for the following model year. It replaced the outgoing 200SX (S12) model. Most of the 240SX were equipped with the 2.4-liter inline 4 engine (KA24E from 1989–1990 and KA24DE from 1991–1999)."
+    },
+    {
+      "make": "Nissan",
+      "model": "GTR Nismo",
+      "year": "2017",
+      "price": "174990",
+      "description": "GT-R NISMO has ultimate performance and passing power with a 600-hp 3.8-liter, high-output, twin-turbocharged V6 engine that will get the driver as revved up as the engine."
+    },
+    {
+      "make": "Subaru",
+      "model": "WRX STi",
+      "year": "2004",
+      "price": "35000",
+      "description": "Rally-bred and born to run, the WRX STI are the pure distillation of performance engineering and motorsports heritage. The balanced design of Symmetrical All-Wheel Drive creates uniform stability and delivers an optimal distribution of power for maximum traction. Which means you can confidently rocket out of corners on the track, kick up dirt on back roads, and head out on a road trip in all kinds of conditions."
+    },{
+      "make": "Mitsubishi",
+      "model": "EVO MR",
+      "year": "2015",
+      "price": "38000",
+      "description": "The Lancer Evolution X sedan features a newly designed 4B11T 2.0L (1998cc) turbocharged, all-aluminum I4 GEMA engine. Power and torque depend on the market but all versions will have at least 280 PS (206 kW; 276 hp)."
+    },
+    {
+      "make": "Mclaren",
+      "model": "P1",
+      "year": "2006",
+      "price": "1150000",
+      "description": "Despite its strictly limited production, the McLaren P1™ underwent a comprehensive test program, designed to ensure that the car and its state-of-the-art powertrain could deliver its extraordinary breadth of capability anywhere an owner might choose to take it. Prototypes, and the engineering team, travelled the world to ensure the car could function in the hottest and coldest climates. And, of course, the toughest environment of all – Germany's Nürburgring Nordschleife, and the need to meet the project target of a sub-seven-minute lap."
+    },
+    {
+      "make": "Mercedes",
+      "model": "C63 AMG",
+      "year": "2012",
+      "price": "55000",
+      "description": "AMG is the performance racing division of Mercedes-Benz, you will experience the legendary philosophy of One Man, One Engine firsthand."
+    }
+  ]
+}
